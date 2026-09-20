@@ -29,14 +29,6 @@ Double-click `GN_PC_Optimizer.exe` to launch immediately.
 > **💡 Administrator Privileges Note:**  
 > Running the `.exe` as **Administrator** enables full access to create Windows System Restore Checkpoints and manage system-wide (`HKLM`) startup items.
 
----
-
-## 🛠️ Building the Standalone `.exe` from Source
-
-If you wish to modify the Python source code and re-compile the standalone executable yourself using PyInstaller:
-
-### Prerequisites
-* Python 3.8+
-* Dependencies:
-  ```bash
-  pip install PySide6 psutil pyinstaller
+If you want sours code so contact me my mail.or leave a comment.
+### NOTE!!!!
+important note before clicking the clean button dubale check all file. This is software in his early this make mistake some time also help me to get upgarde this software. 
